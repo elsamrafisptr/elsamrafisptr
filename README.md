@@ -5,17 +5,17 @@ I am a software engineer who is passionate about developing and researching tech
 ### Tech Stack
 - #### Framerwork
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,express,nest,laravel,flask,fastapi,tailwindcss,bootstrap,cypress" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,express,nest,laravel,flask,fastapi,tailwindcss,bootstrap,cypress" />
 </div>
 
 - #### Language
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,python" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,python,go" /><br>
 </div>
 
 - #### Others
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,gcp,redux,prisma,postman,github,gitlab,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,gcp,aws,azure,cloudflare,docker,githubactions,redux,prisma,postman,github,gitlab,bitbucket,figma" /><br>
 </div>
 
 ### Find me around the internet 🌎
