@@ -13,19 +13,14 @@ Just a random person who is passionate about software engineering (developing an
     <img src="https://skillicons.dev/icons?i=go,fastapi,express,nest" /><br>
 </div>
 
-- ### Cloud
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,aws" /><br>
-</div>
-
 - ### Database
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase"/><br>
 </div>
 
 - #### Others
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,figma,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,azure,aws,docker,githubactions,figma,wordpress" /><br>
 </div>
 
 ### Find me around the internet 🌎
